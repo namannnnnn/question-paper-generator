@@ -13,10 +13,15 @@ The heart of this code is at server.js, as you can see I've instantiated the exp
 
 # Installing dependencies
 
+First do : npm init
+
+
 npm i colors
 npm i express
 npm i express-async-handler
 npm i mongoose
+
+
 
 # Running the project
 
